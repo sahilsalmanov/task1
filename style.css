@@ -1,0 +1,44 @@
+
+.container {
+    background-image: url(./full-moon-peeking-tree-branches-fog.jpg);
+    height: 850px;
+    width: 100%;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ 
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: 500;
+    
+}
+.left {
+    padding: 20px;
+    font-size: 25px ;
+}
+.right {
+   display: flex;
+   padding: 20px;
+   
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-left: 25px;
+}
+.bottom {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 35px;
+    font-weight: 800;
+
+}
